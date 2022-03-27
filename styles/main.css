@@ -1,0 +1,106 @@
+h1 {
+	color: black;
+    font-size: 28px;
+    font-family: serif, georgia;
+}
+
+h2 {
+	color: black;
+    font-size: 14px;
+    font-family: sans-serif, helveta;
+}
+
+h3 {
+    color: black;
+    font-size: 20px;
+    text-align: left;
+}
+
+h4 {
+    color: black;
+    font-size: 20px;
+    text-align: left;
+}
+
+h5{
+    font-size: 17px;
+}
+
+a{
+    color: orangered;
+}
+
+img{
+    width: 100%;
+}
+
+body {
+        Color: black;
+        margin: 0px,20px,0px,20px;
+    }
+    .header {
+        Color: orangered;
+        border-color: #cccccc;
+    }
+    .logo{
+        float: center;
+        align-content: center;
+    }
+    .logocaption{
+        width: 100%;
+        text-align: center;
+        word-spacing: 28px;
+        font-family: sans-serif, helveta;
+    }
+    .firstimage{
+        width: 100%;
+        float: left;
+        margin: 20px,20px,20px,20px;
+    }
+    .top{
+        color: #666666;
+        font-family: sans-serif, helveta;
+    }
+    .secondimage{
+        width: 100%;
+    }
+    .thirdimage{
+        width: 100%;
+    }
+    .fourthimage{
+        width: 100%;
+    }
+    .firstcaption{
+        font-size: 12px;
+    }
+    .secondcaption{
+        font-size: 12px;
+        display: block;
+        text-align: left;
+    }
+    .thirdcaption{
+        font-size:  12px;
+    }
+    .fourthcaption{
+        font-size: 12px;
+    }
+    .article {
+        font-family: serif, georgia;
+    }
+    .footer{
+        column-count: 2;
+        column-gap: 30px;
+        background-color: #222222;
+        width: 100%;
+        color: white;
+        font-family: sans-serif, helveta;
+        font-size: 13px;
+    }
+    .col-4{
+        background-color: #222222;
+        color: white;
+    }
+    .col-6{
+        background-color: #222222;
+        color: white;
+    }
